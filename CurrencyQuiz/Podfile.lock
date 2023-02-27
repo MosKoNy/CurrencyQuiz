@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.6.4)
+  - DynamicBlurView (4.1.0)
+  - ObjectMapper (4.2.0)
+  - "ObjectMapper+Realm (1.2)":
+    - ObjectMapper
+    - RealmSwift
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - Realm (10.36.0):
+    - Realm/Headers (= 10.36.0)
+  - Realm/Headers (10.36.0)
+  - RealmSwift (10.36.0):
+    - Realm (= 10.36.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.6)
+  - ObjectMapper (~> 4.2)
+  - "ObjectMapper+Realm"
+  - PopupDialog (~> 1.1)
+  - RealmSwift (~> 10.36)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicBlurView
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - PopupDialog
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  "ObjectMapper+Realm": 0f8d0ac5b0e87ba63d2d0bea76a111b4eae98b9a
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  Realm: 3fd136cb4c83a927482a7f1612496d37beed3cf5
+  RealmSwift: 513d4dcbf5bfc4d573454088b592685fc48dd716
+
+PODFILE CHECKSUM: a7d3aceaed7d4d448c0eec687382246f71f1400c
+
+COCOAPODS: 1.11.3
